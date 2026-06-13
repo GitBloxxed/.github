@@ -50,10 +50,9 @@ GitBlox is a centralized version control and collaboration platform designed for
 ✅ Games where community contributions outweigh the risks  
 
 ### When to Keep Your Game Private
-❌ Games still in development  
+❌ Games still in development and unreleased  
 ❌ Games with valuable proprietary mechanics  
 ❌ Games with sensitive anti-cheat or security systems  
-❌ Games where your unique gameplay is the main value  
 
 **GitBlox supports both public and private repositories** - you choose what works best for your project.
 
